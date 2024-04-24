@@ -1,0 +1,204 @@
+[
+    {
+        "opinion_id": "10366351",
+        "author": "Jola",
+        "recommendation": true,
+        "score": 0.9,
+        "content": "Perfect blocks as a gift, even for an adult :)",
+        "pros": [
+            "price per block"
+        ],
+        "cons": [],
+        "helpful": 5,
+        "unhelpful": 1,
+        "post_date": "2019-04-08 14:28:28",
+        "purchase_date": "2019-04-03 16:22:47"
+    },
+    {
+        "opinion_id": "10460555",
+        "author": "Lili",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "Great product, long ago chosen. I recommend.",
+        "pros": [
+            "color",
+            "durability",
+            "size",
+            "appearance",
+            "game"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2019-04-29 17:42:38",
+        "purchase_date": "2019-04-08 20:02:09"
+    },
+    {
+        "opinion_id": "8013383",
+        "author": "Joanna",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "I recommend",
+        "pros": [
+            "color",
+            "durability",
+            "size",
+            "appearance",
+            "game"
+        ],
+        "cons": [],
+        "helpful": 1,
+        "unhelpful": 0,
+        "post_date": "2018-07-15 18:15:20",
+        "purchase_date": "2018-05-19 23:19:05"
+    },
+    {
+        "opinion_id": "14201990",
+        "author": "j...3",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "My son has been wanting it all the time since he was 4 years old, so I guess he's good",
+        "pros": [
+            "durability",
+            "game"
+        ],
+        "cons": [
+            "color",
+            "appearance"
+        ],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2021-03-30 12:39:30",
+        "purchase_date": "2021-03-27 08:30:59"
+    },
+    {
+        "opinion_id": "12789450",
+        "author": "Fredrik",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "Superrr. The most beautiful thing in my life",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2020-07-10 16:56:08",
+        "purchase_date": "2020-07-08 19:59:24"
+    },
+    {
+        "opinion_id": "13600814",
+        "author": "p...o",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "cool",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2020-12-17 18:55:18",
+        "purchase_date": "2020-12-07 20:28:20"
+    },
+    {
+        "opinion_id": "8046638",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 0.9,
+        "content": "4.5/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2018-06-14 06:38:16",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "8027150",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 1.0,
+        "content": "5.0/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2018-06-07 13:06:35",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "6438074",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 1.0,
+        "content": "5.0/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2018-01-05 10:28:52",
+        "purchase_date": "2018-01-02 19:05:11"
+    },
+    {
+        "opinion_id": "5155901",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 1.0,
+        "content": "5.0/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2017-10-25 08:08:56",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "4945008",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 1.0,
+        "content": "5.0/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2017-08-15 18:52:20",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "4661350",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 0.9,
+        "content": "4.5/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2017-05-13 20:08:35",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "4441490",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "5.0/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2017-02-18 22:52:44",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "4325624",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 0.9,
+        "content": "4.5/5",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "post_date": "2017-01-02 19:12:35",
+        "purchase_date": null
+    }
+]
